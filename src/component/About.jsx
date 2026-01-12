@@ -38,8 +38,8 @@ export default function About() {
           <p>
             My experience includes implementing authentication flows, managing
             application state, handling asynchronous data, and deploying
-            applications on platforms like <strong>Vercel</strong>. I strongly
-            believe in continuous learning and enjoy building practical
+            applications on platforms like <strong>Vercel & Render</strong>. I
+            strongly believe in continuous learning and enjoy building practical
             solutions that solve real-world problems.
           </p>
         </div>
