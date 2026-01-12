@@ -7,8 +7,8 @@ export default function About() {
           About <span className="text-blue-600">Me</span>
         </h2>
         <p className="text-gray-500 max-w-2xl">
-          Get to know more about my background, skills, and what I love
-          building.
+          A brief introduction to my background, technical skills, and journey
+          into web development.
         </p>
       </div>
 
@@ -18,31 +18,29 @@ export default function About() {
           <p>
             I’m a{" "}
             <span className="font-semibold text-blue-600">
-              MERN Stack Developer
+              React / MERN Stack Developer
             </span>{" "}
-            with <span className="font-semibold">1+ year</span> of hands-on
-            experience in designing and developing scalable, high-performance
-            web applications. My core expertise lies in building modern user
-            interfaces with React and developing robust backend services using
-            Node.js, Express, and MongoDB.
+            with strong hands-on experience in building responsive and scalable
+            web applications. My primary focus is on creating clean, modern user
+            interfaces using React and integrating them with efficient backend
+            services.
           </p>
 
           <p>
-            Currently, I’m working at{" "}
-            <span className="font-semibold text-green-600">
-              HP Software Technology India
-            </span>
-            , where I actively contribute to real-world projects, collaborate
-            with cross-functional teams, and focus on writing clean,
-            maintainable, and reusable code. I enjoy solving complex problems
-            and optimizing application performance.
+            I have worked extensively on real-world, project-based applications
+            using <strong>React, JavaScript (ES6+), Redux Toolkit</strong>, and
+            modern UI frameworks like <strong>Tailwind CSS</strong>. On the
+            backend, I have hands-on experience with{" "}
+            <strong>Node.js, Express.js, and MongoDB</strong>, including REST
+            API development and frontend–backend integration.
           </p>
 
           <p>
-            I have hands-on experience with REST APIs, authentication,
-            role-based access control, and frontend–backend integration. I
-            strongly believe in continuous learning and staying updated with the
-            latest frontend trends and best practices.
+            My experience includes implementing authentication flows, managing
+            application state, handling asynchronous data, and deploying
+            applications on platforms like <strong>Vercel</strong>. I strongly
+            believe in continuous learning and enjoy building practical
+            solutions that solve real-world problems.
           </p>
         </div>
 
@@ -54,13 +52,17 @@ export default function About() {
 
           <div className="grid grid-cols-2 gap-4 text-gray-700">
             <span>⚛️ React.js</span>
+            <span>🧠 JavaScript (ES6+)</span>
+            <span>🧩 Redux Toolkit</span>
+            <span>🚏 React Router</span>
             <span>🟢 Node.js</span>
-            <span>🧩 Redux / Toolkit</span>
-            <span>🚏 Express.js</span>
+            <span>🚀 Express.js</span>
             <span>🍃 MongoDB</span>
             <span>🎨 Tailwind CSS</span>
             <span>📦 Git & GitHub</span>
-            <span>🔐 REST APIs</span>
+            <span>🔗 REST APIs</span>
+            <span>☁️ Vercel</span>
+            <span>🛠️ VS Code</span>
           </div>
         </div>
       </div>
