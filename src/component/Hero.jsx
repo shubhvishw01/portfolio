@@ -61,7 +61,7 @@ export default function Hero() {
               <button
                 onClick={() => {
                   const link = document.createElement("a");
-                  link.href = "/MERN_Dev.pdf";
+                  link.href = "/ReactD.pdf";
                   link.download = "Shubham-Vishwakarma-Resume.pdf";
                   link.click();
                 }}
