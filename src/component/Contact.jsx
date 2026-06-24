@@ -25,10 +25,10 @@ export default function Contact() {
           <p className="mb-8 text-lg">
             📞{" "}
             <a
-              href="tel:9309792386"
+              href="tel:9713649271"
               className="hover:text-green-400 transition"
             >
-              9309792386
+              9713649271
             </a>
           </p>
 
