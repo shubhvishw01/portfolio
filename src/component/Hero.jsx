@@ -61,8 +61,8 @@ export default function Hero() {
               <button
                 onClick={() => {
                   const link = document.createElement("a");
-                  link.href = "/Shubh.Vishw.pdf";
-                  link.download = "Shubham-Vishwakarma-Resume.pdf";
+                  link.href = "/Shubh.Vishwakarma56.pdf";
+                  link.download = "Shubh.Vishwakarma56.pdf";
                   link.click();
                 }}
                 className="group px-8 py-3 rounded-full bg-gradient-to-r from-blue-600 to-indigo-600 text-white font-medium shadow-lg

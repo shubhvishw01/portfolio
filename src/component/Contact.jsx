@@ -25,10 +25,10 @@ export default function Contact() {
           <p className="mb-8 text-lg">
             📞{" "}
             <a
-              href="tel:9713649271"
+              href="tel:9755390256"
               className="hover:text-green-400 transition"
             >
-              9713649271
+              +91 9755390256
             </a>
           </p>
 
